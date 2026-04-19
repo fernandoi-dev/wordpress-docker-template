@@ -1,0 +1,6 @@
+# Variables de entorno con datos sensibles
+.env
+
+# Archivos del sistema
+.DS_Store
+*.log
